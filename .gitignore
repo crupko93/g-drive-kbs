@@ -1,0 +1,5 @@
+.env
+/creds/*
+/node_modules
+/data/index.json
+dist
