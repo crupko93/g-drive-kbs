@@ -1,0 +1,74 @@
+[
+  {
+    "filename": "deployment_guide.txt",
+    "path": "/engineering/deployment_guide.txt",
+    "modified": "2025-07-08T18:59:34.000Z",
+    "content": "This is a plain text file: deployment_guide.txt"
+  },
+  {
+    "filename": "api_reference.md",
+    "path": "/engineering/api_reference.md",
+    "modified": "2025-07-08T18:59:34.000Z",
+    "content": "# Api Reference\n\nThis is a markdown file."
+  },
+  {
+    "filename": "._roadmap.txt",
+    "path": "/__MACOSX/product/._roadmap.txt",
+    "modified": "2025-07-08T18:59:34.000Z",
+    "content": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0000q\u0000\u0000\u0000\u0002\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0015com.apple.provenance\u0000\u0001\u0002\u0000�Bq<�*[�"
+  },
+  {
+    "filename": "._product_overview.md",
+    "path": "/__MACOSX/product/._product_overview.md",
+    "modified": "2025-07-08T18:59:34.000Z",
+    "content": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0000q\u0000\u0000\u0000\u0002\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0015com.apple.provenance\u0000\u0001\u0002\u0000�Bq<�*[�"
+  },
+  {
+    "filename": "._jan_meeting.md",
+    "path": "/__MACOSX/meeting_notes/2025/._jan_meeting.md",
+    "modified": "2025-07-08T18:59:34.000Z",
+    "content": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0000q\u0000\u0000\u0000\u0002\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0015com.apple.provenance\u0000\u0001\u0002\u0000�Bq<�*[�"
+  },
+  {
+    "filename": "._feb_meeting.txt",
+    "path": "/__MACOSX/meeting_notes/2025/._feb_meeting.txt",
+    "modified": "2025-07-08T18:59:34.000Z",
+    "content": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0000q\u0000\u0000\u0000\u0002\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0015com.apple.provenance\u0000\u0001\u0002\u0000�Bq<�*[�"
+  },
+  {
+    "filename": "._deployment_guide.txt",
+    "path": "/__MACOSX/engineering/._deployment_guide.txt",
+    "modified": "2025-07-08T18:59:34.000Z",
+    "content": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0000q\u0000\u0000\u0000\u0002\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0015com.apple.provenance\u0000\u0001\u0002\u0000�Bq<�*[�"
+  },
+  {
+    "filename": "._api_reference.md",
+    "path": "/__MACOSX/engineering/._api_reference.md",
+    "modified": "2025-07-08T18:59:34.000Z",
+    "content": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0000q\u0000\u0000\u0000\u0002\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u000b\u0000\u0000\u0015com.apple.provenance\u0000\u0001\u0002\u0000�Bq<�*[�"
+  },
+  {
+    "filename": "product_overview.md",
+    "path": "/product/product_overview.md",
+    "modified": "2025-07-08T18:59:34.000Z",
+    "content": "# Product Overview\n\nThis is a markdown file."
+  },
+  {
+    "filename": "roadmap.txt",
+    "path": "/product/roadmap.txt",
+    "modified": "2025-07-08T18:59:34.000Z",
+    "content": "This is a plain text file: roadmap.txt"
+  },
+  {
+    "filename": "jan_meeting.md",
+    "path": "/meeting_notes/2025/jan_meeting.md",
+    "modified": "2025-07-08T18:59:34.000Z",
+    "content": "# Jan Meeting\n\nThis is a markdown file."
+  },
+  {
+    "filename": "feb_meeting.txt",
+    "path": "/meeting_notes/2025/feb_meeting.txt",
+    "modified": "2025-07-08T18:59:34.000Z",
+    "content": "This is a plain text file: feb_meeting.txt"
+  }
+]

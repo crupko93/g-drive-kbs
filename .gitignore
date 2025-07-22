@@ -1,5 +1,5 @@
 .env
 /creds/*
 /node_modules
-/data/index.json
+/data/node_modules
 dist
